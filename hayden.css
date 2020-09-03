@@ -279,25 +279,25 @@ a {
 
 
 /* 鼠标图标点击前 */
-/*
+
 body {
     cursor: url(https://cdn.jsdelivr.net/gh/ghl1024/CND/img/20200831225709.png), auto;
 }
-*/
+
 
 /*a标签以下所有点击后*/
-/*
+
 a:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/ghl1024/CND/img/20200831225753.png), auto;
 }
-*/
+
 
 /*按钮*/
-/*
+
 button:hover {
     cursor: url(https://cdn.jsdelivr.net/gh/ghl1024/CND/img/20200831225753.png), auto;
 }
-*/
+
 #rightside>div>button,
 #rightside>div>a {
     display: block;

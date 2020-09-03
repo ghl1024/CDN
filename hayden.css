@@ -169,7 +169,7 @@
 /* a标签默认颜色 */
 
 #article-container a {
-    color: #F47466;
+    color: #49b1f5;
     text-decoration: none;
 }
 
@@ -177,7 +177,7 @@
 /* 鼠标悬停时的颜色 */
 
 #article-container a:hover {
-    color: #e58a8a;
+    color: #49b1f5;
     text-decoration: none;
 }
 

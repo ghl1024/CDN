@@ -169,7 +169,6 @@
 /* a标签默认颜色 */
 
 #article-container a {
-    #color: #FFFFCC;
     color: #F47466;
     text-decoration: none;
 }
@@ -212,7 +211,6 @@
 /*Lete个人博客颜色修改*/
 
 #page-header #site_title {
-    #color: #FFFFCC;
     color: #F47466;
 }
 

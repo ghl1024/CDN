@@ -169,7 +169,8 @@
 /* a标签默认颜色 */
 
 #article-container a {
-    color: #FFFFCC;
+    #color: #FFFFCC;
+    color: #F47466;
     text-decoration: none;
 }
 

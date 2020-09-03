@@ -211,7 +211,8 @@
 /*Lete个人博客颜色修改*/
 
 #page-header #site_title {
-    color: #FFFFCC;
+    #color: #FFFFCC;
+    color: #F47466;
 }
 
 

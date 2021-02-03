@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="169px" height="173px" viewBox="0 0 169 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 13</title>
+    <defs>
+        <ellipse id="path-1" cx="41.5" cy="128.5" rx="29.5" ry="28.5"></ellipse>
+        <ellipse id="path-3" cx="30.5" cy="28.5" rx="29.8510638" ry="28.5"></ellipse>
+        <ellipse id="path-5" cx="41.5" cy="126.5" rx="29.5" ry="28.5"></ellipse>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-13">
+            <rect id="矩形" fill="#DA7A48" x="0" y="80" width="169" height="93" rx="18"></rect>
+            <path d="M0,149.868059 C1.21743675e-15,159.809185 8.0588745,167.868059 18,167.868059 L18,167.868059 L151,167.868059 C160.941125,167.868059 169,159.809185 169,149.868059 L169,149.868059 L169,155 C169,164.941125 160.941125,173 151,173 L18,173 C8.0588745,173 1.21743675e-15,164.941125 0,155 Z" id="形状结合" fill="#BA6437"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <ellipse stroke="#BA6437" stroke-width="3" cx="41.5" cy="128.5" rx="28" ry="27"></ellipse>
+            <g id="形状结合-+-形状结合-蒙版" mask="url(#mask-2)">
+                <g transform="translate(12.000000, 98.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="蒙版" stroke="none" fill="#0C1D2F" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path d="M0.64893617,5.7 L61.6489362,5.7 M0.64893617,31.0333333 L61.6489362,31.0333333 M0.64893617,18.3666667 L61.6489362,18.3666667 M0.64893617,43.7 L61.6489362,43.7 M0.64893617,12.0333333 L61.6489362,12.0333333 M0.64893617,37.3666667 L61.6489362,37.3666667 M0.64893617,24.7 L61.6489362,24.7 M0.64893617,50.0333333 L61.6489362,50.0333333" id="形状结合" stroke="#DA7A48" stroke-width="0.5" fill="none" stroke-linecap="square" mask="url(#mask-4)"></path>
+                    <path d="M0.64893617,5.7 L61.6489362,5.7 M0.64893617,31.0333333 L61.6489362,31.0333333 M0.64893617,18.3666667 L61.6489362,18.3666667 M0.64893617,43.7 L61.6489362,43.7 M0.64893617,12.0333333 L61.6489362,12.0333333 M0.64893617,37.3666667 L61.6489362,37.3666667 M0.64893617,24.7 L61.6489362,24.7 M0.64893617,50.0333333 L61.6489362,50.0333333" id="形状结合" stroke="#DA7A48" stroke-width="0.5" fill="none" stroke-linecap="square" mask="url(#mask-4)" transform="translate(31.148936, 27.866667) rotate(-270.000000) translate(-31.148936, -27.866667) "></path>
+                </g>
+            </g>
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <ellipse stroke="#FDD9B5" stroke-width="3" cx="41.5" cy="126.5" rx="28" ry="27"></ellipse>
+            <path d="M110,68 L137,68 C139.209139,68 141,69.790861 141,72 L141,80 L141,80 L106,80 L106,72 C106,69.790861 107.790861,68 110,68 Z" id="矩形" fill="#C35F2B"></path>
+            <path d="M94,73 L96,73 C98.209139,73 100,74.790861 100,77 L100,79 L100,79 L90,79 L90,77 C90,74.790861 91.790861,73 94,73 Z" id="矩形备份-8" fill="#0C1D2F"></path>
+            <path d="M80,73 L82,73 C84.209139,73 86,74.790861 86,77 L86,79 L86,79 L76,79 L76,77 C76,74.790861 77.790861,73 80,73 Z" id="矩形备份-9" fill="#C66A3B"></path>
+            <rect id="矩形备份-12" fill="#080C11" x="114" y="150" width="33" height="8" rx="3"></rect>
+            <circle id="椭圆形备份-7" fill="#000000" cx="104" cy="154" r="4"></circle>
+            <polygon id="直线-5" fill="#C66A3B" fill-rule="nonzero" transform="translate(107.778947, 39.735413) scale(-1, 1) rotate(26.000000) translate(-107.778947, -39.735413) " points="64.3146755 18.4940545 64.9117309 17.829436 151.243219 59.1600081 150.176849 61.6413908"></polygon>
+            <rect id="矩形" fill="#0C1D2F" x="114" y="148" width="33" height="8" rx="3"></rect>
+            <circle id="椭圆形" fill="#0C1D2F" cx="104" cy="152" r="4"></circle>
+        </g>
+    </g>
+</svg>
